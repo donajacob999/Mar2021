@@ -30,6 +30,8 @@ namespace Create_Time_and_Material
             TMObj.editTM(driver);
             TMObj.deleteTM(driver);
 
+            //Close Driver
+            driver.Close();
 
 
         }
