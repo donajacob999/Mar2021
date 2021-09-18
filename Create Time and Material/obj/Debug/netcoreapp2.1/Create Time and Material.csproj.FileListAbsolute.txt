@@ -1,0 +1,13 @@
+C:\Repos\First\Create Time and Material\Create Time and Material\obj\Debug\netcoreapp2.1\Create Time and Material.AssemblyInfoInputs.cache
+C:\Repos\First\Create Time and Material\Create Time and Material\obj\Debug\netcoreapp2.1\Create Time and Material.AssemblyInfo.cs
+C:\Repos\First\Create Time and Material\Create Time and Material\obj\Debug\netcoreapp2.1\Create Time and Material.csproj.CoreCompileInputs.cache
+C:\Repos\First\Create Time and Material\Create Time and Material\obj\Debug\netcoreapp2.1\Create Time and Material.genruntimeconfig.cache
+C:\Repos\First\Create Time and Material\Create Time and Material\bin\Debug\netcoreapp2.1\Time and Material.deps.json
+C:\Repos\First\Create Time and Material\Create Time and Material\bin\Debug\netcoreapp2.1\Time and Material.runtimeconfig.json
+C:\Repos\First\Create Time and Material\Create Time and Material\bin\Debug\netcoreapp2.1\Time and Material.runtimeconfig.dev.json
+C:\Repos\First\Create Time and Material\Create Time and Material\bin\Debug\netcoreapp2.1\Time and Material.dll
+C:\Repos\First\Create Time and Material\Create Time and Material\bin\Debug\netcoreapp2.1\Time and Material.pdb
+C:\Repos\First\Create Time and Material\Create Time and Material\obj\Debug\netcoreapp2.1\Time and Material.dll
+C:\Repos\First\Create Time and Material\Create Time and Material\obj\Debug\netcoreapp2.1\Time and Material.pdb
+C:\Repos\First\Create Time and Material\Create Time and Material\obj\Debug\netcoreapp2.1\Create Time and Material.csproj.AssemblyReference.cache
+C:\Repos\First\Create Time and Material\Create Time and Material\obj\Debug\netcoreapp2.1\Create Time and Material.GeneratedMSBuildEditorConfig.editorconfig
