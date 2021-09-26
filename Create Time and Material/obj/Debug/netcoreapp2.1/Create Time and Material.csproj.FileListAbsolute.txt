@@ -9,5 +9,14 @@ C:\Repos\First\Create Time and Material\Create Time and Material\bin\Debug\netco
 C:\Repos\First\Create Time and Material\Create Time and Material\bin\Debug\netcoreapp2.1\Time and Material.pdb
 C:\Repos\First\Create Time and Material\Create Time and Material\obj\Debug\netcoreapp2.1\Time and Material.dll
 C:\Repos\First\Create Time and Material\Create Time and Material\obj\Debug\netcoreapp2.1\Time and Material.pdb
-C:\Repos\First\Create Time and Material\Create Time and Material\obj\Debug\netcoreapp2.1\Create Time and Material.csproj.AssemblyReference.cache
 C:\Repos\First\Create Time and Material\Create Time and Material\obj\Debug\netcoreapp2.1\Create Time and Material.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\First\Create Time and Material\Create Time and Material\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Repos\First\Create Time and Material\Create Time and Material\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Repos\First\Create Time and Material\Create Time and Material\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\Repos\First\Create Time and Material\Create Time and Material\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\Repos\First\Create Time and Material\Create Time and Material\bin\Debug\netcoreapp2.1\nunit.engine.core.dll
+C:\Repos\First\Create Time and Material\Create Time and Material\bin\Debug\netcoreapp2.1\testcentric.engine.metadata.dll
+C:\Repos\First\Create Time and Material\Create Time and Material\bin\Debug\netcoreapp2.1\testhost.exe
+C:\Repos\First\Create Time and Material\Create Time and Material\bin\Debug\netcoreapp2.1\testhost.dll
+C:\Repos\First\Create Time and Material\Create Time and Material\bin\Debug\netcoreapp2.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Repos\First\Create Time and Material\Create Time and Material\bin\Debug\netcoreapp2.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
